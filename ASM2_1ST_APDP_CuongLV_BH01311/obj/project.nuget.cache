@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3uw4VkY6GHg=",
+  "success": true,
+  "projectFilePath": "D:\\Applied Programming and Design Principles\\Works\\ASM1_APDP\\ASM1_APDP\\ASM2_1ST_APDP_CuongLV_BH01311\\ASM2_1ST_APDP_CuongLV_BH01311.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\selenium.support\\4.18.1\\selenium.support.4.18.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\selenium.webdriver\\4.18.1\\selenium.webdriver.4.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}

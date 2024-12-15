@@ -1,0 +1,53 @@
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.exe
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.deps.json
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.runtimeconfig.json
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.dll
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.pdb
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.AssemblyInfoInputs.cache
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.AssemblyInfo.cs
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.csproj.CoreCompileInputs.cache
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.sourcelink.json
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.dll
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\obj\Debug\net8.0\refint\ASM1_1ST_APDP_HieuTM_BH01236.dll
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.pdb
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.genruntimeconfig.cache
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_DucTM_BH01243\obj\Debug\net8.0\ref\ASM1_1ST_APDP_HieuTM_BH01236.dll
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.exe
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.deps.json
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.runtimeconfig.json
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.dll
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.pdb
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.AssemblyInfoInputs.cache
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.AssemblyInfo.cs
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.csproj.CoreCompileInputs.cache
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.sourcelink.json
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.dll
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\refint\ASM1_1ST_APDP_HieuTM_BH01236.dll
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.pdb
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.genruntimeconfig.cache
+C:\Users\Hyo\Documents\Zalo Received Files\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ref\ASM1_1ST_APDP_HieuTM_BH01236.dll
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.exe
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.deps.json
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.runtimeconfig.json
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.dll
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.pdb
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.AssemblyInfoInputs.cache
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.AssemblyInfo.cs
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.csproj.CoreCompileInputs.cache
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.sourcelink.json
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.dll
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\refint\ASM1_1ST_APDP_HieuTM_BH01236.dll
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.pdb
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.genruntimeconfig.cache
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ref\ASM1_1ST_APDP_HieuTM_BH01236.dll
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\bin\Debug\net8.0\WebDriver.dll
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST_APDP_HieuTM_BH01236.csproj.AssemblyReference.cache
+C:\Users\Hyo\Desktop\APDP\ASM1_1ST_APDP_HieuTM_BH01236\obj\Debug\net8.0\ASM1_1ST.D611ED2E.Up2Date
